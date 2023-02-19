@@ -19,6 +19,6 @@ Select the folder.
 
 
 Technologies Used 🛠️
-Javascript and jquery
-Html
+Javascript and jquery,
+Html,
 Css
